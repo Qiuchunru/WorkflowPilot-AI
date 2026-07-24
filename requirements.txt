@@ -1,0 +1,3 @@
+# WorkflowPilot AI dependencies
+
+-r backend/requirements.txt
